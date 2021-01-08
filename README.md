@@ -1,7 +1,7 @@
 # jaecheon.github.io
 personal page
 
-'''python
+```python
 def print()
   print()
-'''
+```
